@@ -51,7 +51,7 @@
   border: 1px solid transparent;
 }
 .catItem:hover {
-  background-color: var(--link-blue);
+  background-color: var(--link-green);
   border: 1px solid var(--modal-orange);
   cursor: pointer;
   color: var(--light-gray);
